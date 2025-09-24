@@ -1,0 +1,5 @@
+{
+  "name": "Site Select AI",
+  "description": "An AI-powered application to help businesses identify profitable locations for new services by combining financial modeling, demographic data, and geospatial analysis.",
+  "requestFramePermissions": []
+}
